@@ -1,4 +1,4 @@
-# Statistical Inference Course Homeworks and Project - University of Tehran (Fall 1402)
+# Statistical Inference Course Homeworks and Project - University of Tehran (Fall 2023)
 
 This repository contains homework assignments and the final project for the **Statistical Inference** course at the University of Tehran. The assignments and project involve the application of statistical methods such as probability theory, hypothesis testing, ANOVA, bootstrapping, and regression analysis to real-world data.
 
